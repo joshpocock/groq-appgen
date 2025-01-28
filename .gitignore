@@ -55,3 +55,6 @@ logs
 .yarn-integrity
 
 certificates
+
+.env
+.env.local
